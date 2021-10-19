@@ -1,3 +1,4 @@
 this is sample file two2
 
 Git revert commit 1
+THis is comparision lecture
